@@ -1,7 +1,6 @@
 
 
-<p align=”center”>
-<img width=”400" height=”400" src=”https://raw.githubusercontent.com/taylorkrn/NewtonMethod/main/Figure.png" alt=”my banner”>
+![alt text](https://raw.githubusercontent.com/taylorkrn/NewtonMethod/main/Figure.png "My Image")
 </p>
 
 #Finding and Plotting Roots
