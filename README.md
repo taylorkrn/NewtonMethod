@@ -18,5 +18,6 @@ In the folder, we find 4 files:
 
 This project is a simple example of the many Numerical mathematical problems that I undertook while studying mathematics. It shows my ability to write basic matlab script, functions and plot results.
 
+*(Image Top shows the Convergance to Roots for a 5th order polynomial, The Image below for a cubic polynomial)*
 
 ![alt text](https://raw.githubusercontent.com/taylorkrn/NewtonMethod/main/Figure.png "My Image")
